@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XSW+IRaIlugPRuqrE3cCFRzNekpwa6QCZD+3Bc+aNpLntU5VI5DfiDs8Wv2bK9TuPp5qx7o5xnRvh93p2iMO7g==",
+  "success": true,
+  "projectFilePath": "/Users/ivancamilo/Projects/Examen-Moviles/Examen-Moviles/Examen-Moviles.iOS/Examen-Moviles.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivancamilo/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/ivancamilo/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/ivancamilo/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
