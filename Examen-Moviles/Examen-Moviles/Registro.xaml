@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="ExamenMoviles.Registro">
+    <ContentPage.Content>
+         <StackLayout Padding="40" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+
+            <Entry x:Name="txtUsuarioRegistrado" Placeholder="Usuario" TextColor="Black" PlaceholderColor="Gray" BackgroundColor="Transparent" Keyboard="Plain"/>
+            <Button x:Name="RegistroButton"
+                VerticalOptions="Center"
+                Text="Ir a Registro 2"
+                TextColor="Black"
+                BackgroundColor="Transparent"
+                BorderColor="Blue"
+                BorderWidth="1"
+                CornerRadius="20"
+                Clicked="RegistroButton_Clicked"/>
+
+          </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>
+

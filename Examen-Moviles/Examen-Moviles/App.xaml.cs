@@ -11,7 +11,7 @@ namespace Examen_Moviles
         {
             InitializeComponent();
 
-            MainPage = new Login();
+            MainPage = new NavigationPage (new Login());
         }
 
         protected override void OnStart ()

@@ -133,4 +133,7 @@
       <Name>Examen-Moviles</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pony.png" />
+  </ItemGroup>
 </Project>
